@@ -1,0 +1,41 @@
+[33mcommit de41002bc2f3faf7f8a8bf6fc4796960d8971101[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sergio.A.Castaño.Loaiza <checho_1303@hotmail.com>
+Date:   Mon Jul 26 22:24:34 2021 -0500
+
+    se agrega script en el body para visualizar el index
+
+[33mcommit b0d74f8d088adda293378a982bb58b8ef2c3a1ec[m
+Author: Sergio.A.Castaño.Loaiza <checho_1303@hotmail.com>
+Date:   Tue Jul 13 13:59:33 2021 -0500
+
+    añademos .gitignore al proyecto e images/ en el
+
+[33mcommit 1050742e42130e9a8ecfc9493a17c237776a8b84[m
+Author: Sergio.A.Castaño.Loaiza <checho_1303@hotmail.com>
+Date:   Tue Jul 13 13:44:56 2021 -0500
+
+    se agregan vinulacion de js y css a html
+
+[33mcommit d6d1d2bc9357aef65114ea52991b751326e4e0ea[m
+Author: Sergio.A.Castaño.Loaiza <checho_1303@hotmail.com>
+Date:   Tue Jul 13 13:32:27 2021 -0500
+
+    complete los codigos con js y css
+
+[33mcommit d05d49c3a29988843b83b1f0eb03d09ce4c2e695[m
+Author: Sergio.A.Castaño.Loaiza <checho_1303@hotmail.com>
+Date:   Tue Jul 13 01:17:44 2021 -0500
+
+    añadi el archivo main.js
+
+[33mcommit 8fba3ddb8bc2b6a6ab0b41a71bbb388f91c1cdb3[m
+Author: Sergio.A.Castaño.Loaiza <checho_1303@hotmail.com>
+Date:   Tue Jul 13 01:16:43 2021 -0500
+
+    añade archivo style.css
+
+[33mcommit 4a3061c2a1b3f70cd64e8f76739d24361d28057b[m
+Author: Sergio.A.Castaño.Loaiza <checho_1303@hotmail.com>
+Date:   Tue Jul 13 01:09:22 2021 -0500
+
+    añade el archivo index.html
